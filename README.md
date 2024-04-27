@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danila</h1>
-<h3 align="center">A passionate backend developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delovoyb&label=Profile%20views&color=0e75b6&style=flat" alt="delovoyb" /> </p>
 
