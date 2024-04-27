@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danila</h1>
-<h2></h2>
+<h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1500&center=true&vCenter=true&random=false&width=435&lines=Python+Backend+Developer" alt="Typing SVG" /></a>
+</h2>
 - 🔭 I’m currently working on [CarMarketParser](https://github.com/DelovoyB/CarMarketParser)
 
 - 🌱 I’m currently learning **Python**
